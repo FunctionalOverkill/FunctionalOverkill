@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-label="FunctionalOverkill — Solving unnecessarily specific problems properly">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 520" preserveAspectRatio="xMidYMid meet" role="img" aria-label="FunctionalOverkill — Solving unnecessarily specific problems properly">
   <defs>
     <linearGradient id="foBlue" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0077D6"/><stop offset="1" stop-color="#00C7FF"/>
@@ -6,7 +6,7 @@
     <clipPath id="Fshape"><path d="M60 65H400V140H165V202H360V277H165V445H60Z"/></clipPath>
     <clipPath id="oshape"><path fill-rule="evenodd" d="M450 188Q450 146 492 146H687Q729 146 729 188V403Q729 445 687 445H492Q450 445 450 403ZM543 231V360H636V231Z"/></clipPath>
   </defs>
-  <rect width="1600" height="520" rx="28" fill="#F5F7F8"/>
+  <rect width="1900" height="520" rx="28" fill="#F5F7F8"/>
   <g clip-path="url(#Fshape)" fill="#0B2A46">
     <rect x="0" y="65" width="780" height="45"/><rect x="0" y="122" width="780" height="45"/><rect x="0" y="179" width="780" height="45"/><rect x="0" y="236" width="780" height="45"/><rect x="0" y="293" width="780" height="45"/><rect x="0" y="350" width="780" height="45"/><rect x="0" y="407" width="780" height="45"/>
   </g>
@@ -14,8 +14,8 @@
     <rect x="0" y="122" width="780" height="45"/><rect x="0" y="179" width="780" height="45"/><rect x="0" y="236" width="780" height="45"/><rect x="0" y="293" width="780" height="45"/><rect x="0" y="350" width="780" height="45"/><rect x="0" y="407" width="780" height="45"/>
   </g>
   <line x1="805" y1="95" x2="805" y2="425" stroke="#D2D7DB" stroke-width="3"/>
-  <text x="860" y="225" font-family="IBM Plex Sans,Arial,sans-serif" font-size="95" font-weight="700" fill="#0B2A46">FunctionalOverkill</text>
-  <text x="865" y="305" font-family="IBM Plex Sans,Arial,sans-serif" font-size="34" font-weight="600" fill="#0077D6">Solving unnecessarily specific problems properly.</text>
-  <text x="865" y="365" font-family="IBM Plex Mono,Consolas,monospace" font-size="26" fill="#4B5563">Hardware • software • infrastructure • repairability</text>
-  <text x="865" y="415" font-family="IBM Plex Mono,Consolas,monospace" font-size="24" fill="#6B7280">Fo — pronounced “foe”</text>
+  <text x="860" y="220" font-family="IBM Plex Sans,Arial,sans-serif" font-size="82" font-weight="700" fill="#0B2A46">FunctionalOverkill</text>
+  <text x="865" y="300" font-family="IBM Plex Sans,Arial,sans-serif" font-size="31" font-weight="600" fill="#0077D6">Solving unnecessarily specific problems properly.</text>
+  <text x="865" y="360" font-family="IBM Plex Mono,Consolas,monospace" font-size="23" fill="#4B5563">Hardware • software • infrastructure • repairability</text>
+  <text x="865" y="410" font-family="IBM Plex Mono,Consolas,monospace" font-size="22" fill="#6B7280">Fo — pronounced “foe”</text>
 </svg>
