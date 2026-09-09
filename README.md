@@ -38,7 +38,7 @@ A few standing rules:
 - batteries should be serviceable rather than entombed in glue;
 - connectors should not be structural members;
 - wear-prone interfaces should be replaceable where practical;
-- internal complexity is acceptable when it removes external bullshit;
+- internal complexity is acceptable when it removes external friction;
 - documentation is part of the product;
 - if we call something open, you should actually be able to build it.
 
@@ -48,6 +48,8 @@ A few standing rules:
 
 ### PocketDeck
 
+**Music first. Phone optional.**
+
 A dedicated, serviceable Android media player: local library + streaming, physical controls, removable high-capacity storage, Bluetooth/Wi-Fi/LTE, USB-C, 3.5 mm audio, a large replaceable battery, and an appliance-style UI rather than a phone pretending to be an MP3 player.
 
 PocketDeck is currently in **private pre-EVT development**. The repository will remain private until the hardware, battery behavior, RF, software, and manufacturing package have been physically validated.
@@ -56,11 +58,13 @@ The intention — **if it reaches a production-worthy release** — is genuinely
 
 ### More unnecessarily specific problems
 
-There are always more. FunctionalOverkill projects tend to live somewhere between *"nobody sells the thing I want"* and *"fine, I'll build the fucking thing myself."*
+There are always more. FunctionalOverkill projects tend to live somewhere between *"nobody sells the thing I want"* and *"fine, I'll build it myself."*
 
 ## Open-source approach
 
-Fo projects may be developed privately while they are unsafe, incomplete, or simply not ready for somebody else to manufacture. Once a project is actually validated, the goal is to release enough source material for a competent builder to reproduce and repair it.
+Fo projects are developed in their eventual release repositories from day one, but kept private while they are unsafe, incomplete, or simply not ready for somebody else to manufacture. That keeps the engineering history, documentation, and source tree in the same place that will eventually be published.
+
+Once a project is actually validated, the goal is to release enough source material for a competent builder to reproduce and repair it. In the ideal case, publication is an administrative change — **Private → Public** — rather than a frantic cleanup and migration exercise.
 
 Current licensing direction for appropriate future releases:
 
@@ -85,10 +89,8 @@ Typography: **IBM Plex** family.
 
 More detail lives in [`BRAND.md`](BRAND.md).
 
-## Workshop rule
-
-> **It's not stupid if it fucking works.**
-
-And when the problem is finally fixed:
+## Sign-off
 
 > **Here. Fixed your problem. Have a laugh too.**
+
+The less-formal workshop motto is preserved in [`BRAND.md`](BRAND.md), but the public-facing voice stays mostly professional, direct, and a little playful.
