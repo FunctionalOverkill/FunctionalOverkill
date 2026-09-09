@@ -33,7 +33,11 @@ The horizontal stripe construction is intrinsic to the logo.
 - redraw the geometry because a different version is more convenient;
 - turn the lowercase `o` into an uppercase `O`.
 
-The canonical full-color source is [`assets/Fo_Master_FullColor.svg`](assets/Fo_Master_FullColor.svg).
+Public masters:
+
+- [`assets/Fo_Master_FullColor.svg`](assets/Fo_Master_FullColor.svg) — primary full-color mark
+- [`assets/Fo_Master_Monochrome.svg`](assets/Fo_Master_Monochrome.svg) — one-color manufacturing/document mark
+- [`assets/Fo_Master_Reversed.svg`](assets/Fo_Master_Reversed.svg) — white/reversed mark for dark backgrounds
 
 ## Colors
 
