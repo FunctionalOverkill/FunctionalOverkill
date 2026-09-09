@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-label="Fo FunctionalOverkill monochrome striped monogram">
+  <defs>
+    <clipPath id="Fshape"><path d="M90 70H500V160H220V235H455V325H220V530H90Z"/></clipPath>
+    <clipPath id="oshape"><path fill-rule="evenodd" d="M565 215Q565 165 615 165H850Q900 165 900 215V480Q900 530 850 530H615Q565 530 565 480ZM675 265V430H790V265Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#Fshape)" fill="#000000">
+    <rect x="0" y="70" width="1000" height="54"/><rect x="0" y="139" width="1000" height="54"/><rect x="0" y="208" width="1000" height="54"/><rect x="0" y="277" width="1000" height="54"/><rect x="0" y="346" width="1000" height="54"/><rect x="0" y="415" width="1000" height="54"/><rect x="0" y="484" width="1000" height="54"/>
+  </g>
+  <g clip-path="url(#oshape)" fill="#000000">
+    <rect x="0" y="139" width="1000" height="54"/><rect x="0" y="208" width="1000" height="54"/><rect x="0" y="277" width="1000" height="54"/><rect x="0" y="346" width="1000" height="54"/><rect x="0" y="415" width="1000" height="54"/><rect x="0" y="484" width="1000" height="54"/>
+  </g>
+</svg>
